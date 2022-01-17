@@ -1,0 +1,4 @@
+﻿  exp2_3.c.cpp
+c:\users\17611\desktop\敲代码专用\瞎搞\exp2_3.c\exp2_3.c\exp2_3.c.cpp(9): warning C4305: “=”: 从“double”到“float”截断
+c:\users\17611\desktop\敲代码专用\瞎搞\exp2_3.c\exp2_3.c\exp2_3.c.cpp(10): warning C4305: “=”: 从“double”到“float”截断
+  exp2_3.c.vcxproj -> C:\Users\17611\Desktop\敲代码专用\瞎搞\exp2_3.c\Debug\exp2_3.c.exe
